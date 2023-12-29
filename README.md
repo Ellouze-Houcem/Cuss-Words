@@ -1,4 +1,4 @@
-# Titre de votre projet
+# Cuss Words
 
 ## Description
 
@@ -28,8 +28,5 @@ Ce code Python utilise la bibliothèque better_profanity pour censurer les propo
 
 ## Contribuer
 
-Indiquez comment les autres peuvent contribuer à votre projet.
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer Mon Projet Incroyable, veuillez soumettre une pull request. Assurez-vous de consulter notre guide de contribution pour plus d'informations.
 
-## Licence
-
-Indiquez la licence sous laquelle votre code est publié.
