@@ -15,14 +15,14 @@ Ce code Python utilise la bibliothèque better_profanity pour censurer les propo
 ## Exemples
 
 1. Exemple 1:
-```bash
+   ```bash
    Texte original: Ce type est vraiment un imbécile, je ne peux pas le supporter !
    Texte censuré: Ce type est vraiment un ********, je ne peux pas le supporter !
 
 3. Exemple 2:
-```bash
-Texte original: Je n'aime pas quand les choses ne fonctionnent pas correctement, c'est vraiment frustrant.
-Texte censuré: Je n'aime pas quand les choses ne ******** pas correctement, c'est vraiment frustrant.
+   ```bash
+   Texte original: Je n'aime pas quand les choses ne fonctionnent pas correctement, c'est vraiment frustrant.
+   Texte censuré: Je n'aime pas quand les choses ne ******** pas correctement, c'est vraiment frustrant.
 
 
 
