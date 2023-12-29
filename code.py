@@ -13,7 +13,7 @@ print("Texte censuré:", resultat1)
 print()
 
 # Exemple 2
-texte2 = "Je n'aime pas quand les choses ne fonctionnent pas correctement, c'est vraiment frustrant."
+texte2 = "This is freaking ridiculous, what the hell is wrong with you?"
 resultat2 = censurer_texte(texte2)
 print("Exemple 2:")
 print("Texte original:", texte2)
