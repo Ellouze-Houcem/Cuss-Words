@@ -21,8 +21,8 @@ Ce code Python utilise la bibliothèque better_profanity pour censurer les propo
 
 3. Exemple 2:
    ```bash
-   Texte original: Je n'aime pas quand les choses ne fonctionnent pas correctement, c'est vraiment frustrant.
-   Texte censuré: Je n'aime pas quand les choses ne ******** pas correctement, c'est vraiment frustrant.
+   Texte original: This is freaking ridiculous, what the hell is wrong with you?
+   Texte censuré: This is freaking ridiculous, what the **** is wrong with you?
 
 
 
