@@ -14,7 +14,14 @@ Ce code Python utilise la bibliothèque better_profanity pour censurer les propo
 
 ## Exemples
 
-Voici quelques exemples de scénarios où mon projet peut briller :
+###Exemple 1:
+Texte original: Ce type est vraiment un imbécile, je ne peux pas le supporter !
+Texte censuré: Ce type est vraiment un ********, je ne peux pas le supporter !
+
+###Exemple 2:
+Texte original: Je n'aime pas quand les choses ne fonctionnent pas correctement, c'est vraiment frustrant.
+Texte censuré: Je n'aime pas quand les choses ne ******** pas correctement, c'est vraiment frustrant.
+
 
 
 ## Contribuer
